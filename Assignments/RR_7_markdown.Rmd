@@ -18,8 +18,8 @@ Use `Ctrl+Alt+I` to create new code chunk
 
 ```{r}
 # Generate some random data
-set.seed(123)
-x <- rnorm(100)
+set.seed(1233)
+x <- rnorm(1000)
 
 # Summary statistics
 summary(x)
